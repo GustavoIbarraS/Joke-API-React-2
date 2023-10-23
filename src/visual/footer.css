@@ -1,0 +1,13 @@
+.Contenedor_footer{
+    height: 100px;
+    background: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.texto_footer{
+    font-size: 20px;
+}

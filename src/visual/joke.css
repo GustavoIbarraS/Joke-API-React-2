@@ -1,0 +1,16 @@
+.joke_h1{
+  font-size: 20px;
+  font-weight:bolder;
+}
+
+.joke_button {
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: #ee61f3;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: black;
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
